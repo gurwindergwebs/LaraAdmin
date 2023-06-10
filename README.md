@@ -12,7 +12,7 @@ LaraAdmin has been carefully coded with clear comments in all of its JS, SCSS an
 
 ## Installation Guide :-
 
-git clone https://github.com/TNTOfficial/LaraTop.git
+git clone https://github.com/TNTOfficial/LaraAdmin.git
 
 cp .env.example .env
 
