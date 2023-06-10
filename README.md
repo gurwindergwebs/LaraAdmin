@@ -54,6 +54,6 @@ Best of luck !!
 
 ## License
 
-LaraTop is an open source project by topnTech that is licensed under MIT. TopnTech reserves the right to change the license of future releases.
+LaraAdmin is an open source project by topnTech that is licensed under MIT. TopnTech reserves the right to change the license of future releases.
 
 
